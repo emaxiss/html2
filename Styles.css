@@ -1,3 +1,11 @@
 h1 {
     background: yellow;
 }
+.success {
+    background: brown;
+
+}
+
+.super-title {
+    font-size: 80px;
+}
