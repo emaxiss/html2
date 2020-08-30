@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a5915e70-3f5a-4bf5-8ab1-db674d550f1b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Games.html" beforeDir="false" afterPath="$PROJECT_DIR$/Games.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
       <updated>1598323269643</updated>
       <workItem from="1598323270950" duration="3898000" />
       <workItem from="1598498122222" duration="1759000" />
-      <workItem from="1598722353892" duration="3667000" />
+      <workItem from="1598722353892" duration="4189000" />
     </task>
     <servers />
   </component>
@@ -82,5 +82,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1598748007903">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1598748007903" />
   </component>
 </project>
