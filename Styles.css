@@ -18,3 +18,7 @@ h1 {
 .super-title {
     font-size: 80px;
 }
+
+p.textcolor {
+    color:red;
+}
