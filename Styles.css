@@ -1,3 +1,8 @@
+body {
+    background: beige;
+    margin: 10px;
+}
+
 h1 {
     background: yellow;
     text-align: center;
@@ -6,7 +11,10 @@ h1 {
     background: brown;
 
 }
+.border1 {
+    border: 1px solid orange;
 
+}
 .super-title {
     font-size: 80px;
 }
